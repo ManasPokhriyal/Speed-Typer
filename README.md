@@ -1,8 +1,8 @@
 Speed Typer Game
-Welcome to the Speed Typer Game! This is a fun and challenging game designed to test and improve your typing speed and accuracy.
+Welcome to the Speed Typer Game! This interactive game is designed to enhance your typing skills through engaging and challenging exercises. Test your speed and accuracy while having fun.
 
 Features
 Typing Challenge: Type a given text as quickly and accurately as possible.
-Timer: Keep track of how long it takes to complete the challenge.
-Score: Measure your performance with a score based on speed and accuracy.
-High Scores: Keep track of your best scores and compete with yourself or others.
+Timer: Monitor the duration of each typing challenge.
+Score: Evaluate your performance with a score that reflects both speed and accuracy.
+Play the game <a href="https://your-link-here" style="color: blue;">click here</a>.!
