@@ -95,4 +95,9 @@ button.addEventListener('click', () => {
 f.addEventListener('change', (e) => {
     difficulty = e.target.value;
     localStorage.setItem('difficulty', difficulty); // Save difficulty to localStorage
+    
+    // Reset time to 10 seconds
+    time = 10;
+    Time.innerHTML = time + 's';
 });
+
